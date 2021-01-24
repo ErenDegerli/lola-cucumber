@@ -1,4 +1,4 @@
-# Lolaflore Test Case
+# Lolaflora Test Case
 ###Selenium Test Framework
 
 This is the task prepared for Lolaflora test case request. It includes the steps of Sign In page happy path and negative test cases. Please check the instruction below for running the script.
