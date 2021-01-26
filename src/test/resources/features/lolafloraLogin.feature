@@ -6,7 +6,7 @@ Feature: Lolaflora Login
 
   Scenario: Login Invalid Email
     When User enters email "a)@gmail.com " and password "Test1234"
-    Then User see message "Please enter a valid e-mail address." under email input area
+    Then User see message "Please enter a valid e-mail address.2" under email input area
 
   Scenario: Login Invalid Password
     When User enters email "venosa6896@yutongdt.com" and password "123456789123456789123"
